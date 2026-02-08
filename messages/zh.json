@@ -1,0 +1,121 @@
+{
+  "nav": {
+    "home": "首页",
+    "company": "公司概况",
+    "equipment": "设备与设施",
+    "technology": "技术与能力",
+    "clients": "客户与合作伙伴",
+    "contact": "联系方式"
+  },
+  "home": {
+    "title": "欢迎来到ATI2000",
+    "subtitle": "卓越制造",
+    "description": "以精准、创新和对质量的坚定承诺引领行业。",
+    "cta": "了解更多",
+    "contactUs": "联系我们",
+    "whyChooseUs": "为什么选择我们",
+    "whyChooseUsSubtitle": "每个细节的卓越，每个解决方案的创新",
+    "quality": "质量",
+    "qualityText": "我们交付的每个产品都坚持不妥协的标准",
+    "innovation": "创新",
+    "innovationText": "尖端技术和前瞻性解决方案",
+    "partnership": "合作伙伴关系",
+    "partnershipText": "与我们尊贵的客户建立持久的关系"
+  },
+  "company": {
+    "title": "公司概况",
+    "about": "关于我们",
+    "aboutText": "ATI2000是一家致力于在我们创造的每一件产品中提供卓越品质的顶级制造公司。凭借数十年的经验和最先进的设施，我们以精准和可靠性为全球客户提供服务。",
+    "mission": "我们的使命",
+    "missionText": "在保持最高质量和创新标准的同时，提供超越客户期望的卓越制造解决方案。",
+    "vision": "我们的愿景",
+    "visionText": "成为制造卓越的全球领导者，以创新、质量和客户满意度而闻名。",
+    "values": "我们的价值观",
+    "quality": "质量",
+    "qualityText": "对卓越的不妥协承诺",
+    "innovation": "创新",
+    "innovationText": "持续改进和前沿解决方案",
+    "integrity": "诚信",
+    "integrityText": "道德商业实践和透明度",
+    "customer": "客户至上",
+    "customerText": "将客户的成功置于我们所做一切的核心"
+  },
+  "equipment": {
+    "title": "设备与设施",
+    "subtitle": "最先进的制造基础设施",
+    "description": "我们的设施配备了最新技术，以确保每个项目的精准、高效和质量。",
+    "specifications": "规格",
+    "viewDetails": "查看详情"
+  },
+  "technology": {
+    "title": "技术与能力",
+    "subtitle": "先进制造解决方案",
+    "description": "我们利用尖端技术和专业知识提供卓越的成果。",
+    "capabilities": "我们的能力",
+    "precision": "精密制造",
+    "precisionText": "先进的CNC加工和精密工程",
+    "quality": "质量保证",
+    "qualityText": "严格的测试和质量控制流程",
+    "custom": "定制解决方案",
+    "customText": "针对独特需求的定制制造解决方案",
+    "scale": "可扩展生产",
+    "scaleText": "从原型到大规模生产运行"
+  },
+  "clients": {
+    "title": "客户与合作伙伴",
+    "subtitle": "受到行业领导者的信赖",
+    "description": "我们很自豪能够为各行各业的多元化客户提供服务。",
+    "partnershipText": "我们很自豪能够与汽车、航空航天、电子和医疗设备等各个行业的领先公司建立合作伙伴关系。",
+    "clientLabel": "客户"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "取得联系",
+    "description": "我们很乐意收到您的来信。请联系我们讨论您的制造需求。",
+    "getInTouch": "取得联系",
+    "sendMessage": "发送消息",
+    "address": "地址",
+    "phone": "电话",
+    "email": "电子邮件",
+    "addressValue": "制造街123号\n首尔，韩国 12345",
+    "phoneValue": "+82-2-XXXX-XXXX",
+    "emailValue": "info@ati2000.co.kr",
+    "successMessage": "感谢您的留言。我们会尽快与您联系。",
+    "form": {
+      "name": "姓名",
+      "email": "电子邮件",
+      "subject": "主题",
+      "message": "消息",
+      "send": "发送消息"
+    }
+  },
+  "admin": {
+    "login": "管理员登录",
+    "username": "用户名",
+    "password": "密码",
+    "loginButton": "登录",
+    "logout": "登出",
+    "equipment": "设备管理",
+    "addNew": "添加新设备",
+    "edit": "编辑",
+    "delete": "删除",
+    "save": "保存",
+    "cancel": "取消",
+    "title": "标题",
+    "titleEn": "标题（英语）",
+    "titleKo": "标题（韩语）",
+    "titleZh": "标题（中文）",
+    "description": "描述",
+    "descriptionEn": "描述（英语）",
+    "descriptionKo": "描述（韩语）",
+    "descriptionZh": "描述（中文）",
+    "specifications": "规格",
+    "images": "图片",
+    "uploadImage": "上传图片",
+    "noEquipment": "未找到设备。添加您的第一个设备项目。"
+  },
+  "footer": {
+    "rights": "版权所有。",
+    "company": "ATI2000"
+  }
+}

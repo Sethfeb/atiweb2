@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "title": {
+      "en": "CNC Precision Milling Machine",
+      "ko": "CNC 정밀 밀링 머신",
+      "zh": "CNC精密铣床"
+    },
+    "description": {
+      "en": "High-precision CNC milling machine for complex manufacturing tasks with advanced automation capabilities.",
+      "ko": "고급 자동화 기능을 갖춘 복잡한 제조 작업을 위한 고정밀 CNC 밀링 머신.",
+      "zh": "具有先进自动化功能的高精度CNC铣床，适用于复杂的制造任务。"
+    },
+    "specifications": {
+      "en": "5-axis capability, ±0.001mm accuracy, 10,000 RPM spindle speed",
+      "ko": "5축 기능, ±0.001mm 정확도, 10,000 RPM 스핀들 속도",
+      "zh": "5轴功能，±0.001mm精度，10,000 RPM主轴转速"
+    },
+    "images": []
+  },
+  {
+    "id": "2",
+    "title": {
+      "en": "Quality Control Laboratory",
+      "ko": "품질 관리 실험실",
+      "zh": "质量控制实验室"
+    },
+    "description": {
+      "en": "State-of-the-art quality control facility equipped with advanced testing equipment for comprehensive product validation.",
+      "ko": "포괄적인 제품 검증을 위한 고급 테스트 장비를 갖춘 최첨단 품질 관리 시설.",
+      "zh": "配备先进测试设备的最先进质量控制设施，用于全面的产品验证。"
+    },
+    "specifications": {
+      "en": "ISO 9001 certified, Automated testing systems, Real-time monitoring",
+      "ko": "ISO 9001 인증, 자동화된 테스트 시스템, 실시간 모니터링",
+      "zh": "ISO 9001认证，自动化测试系统，实时监控"
+    },
+    "images": []
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "nav": {
+    "home": "홈",
+    "company": "회사 개요",
+    "equipment": "장비 및 시설",
+    "technology": "기술 및 역량",
+    "clients": "고객 및 파트너",
+    "contact": "연락처"
+  },
+  "home": {
+    "title": "ATI2000에 오신 것을 환영합니다",
+    "subtitle": "제조업의 우수성",
+    "description": "정밀성, 혁신, 그리고 품질에 대한 확고한 약속으로 업계를 선도하고 있습니다.",
+    "cta": "더 알아보기",
+    "contactUs": "연락처",
+    "whyChooseUs": "우리를 선택하는 이유",
+    "whyChooseUsSubtitle": "모든 세부사항에서의 우수성, 모든 솔루션에서의 혁신",
+    "quality": "품질",
+    "qualityText": "우리가 제공하는 모든 제품에서 타협 없는 기준",
+    "innovation": "혁신",
+    "innovationText": "최첨단 기술과 선도적인 솔루션",
+    "partnership": "파트너십",
+    "partnershipText": "소중한 고객과의 지속적인 관계 구축"
+  },
+  "company": {
+    "title": "회사 개요",
+    "about": "회사 소개",
+    "aboutText": "ATI2000은 우리가 만드는 모든 제품에서 우수성을 제공하는 데 전념하는 최고의 제조 회사입니다. 수십 년의 경험과 최첨단 시설을 갖추고 전 세계 고객에게 정밀성과 신뢰성을 제공합니다.",
+    "mission": "우리의 사명",
+    "missionText": "품질과 혁신의 최고 기준을 유지하면서 고객 기대를 초과하는 우수한 제조 솔루션을 제공하는 것입니다.",
+    "vision": "우리의 비전",
+    "visionText": "혁신, 품질, 고객 만족으로 인정받는 제조 우수성의 글로벌 리더가 되는 것입니다.",
+    "values": "우리의 가치",
+    "quality": "품질",
+    "qualityText": "우수성에 대한 타협 없는 약속",
+    "innovation": "혁신",
+    "innovationText": "지속적인 개선과 최첨단 솔루션",
+    "integrity": "정직성",
+    "integrityText": "윤리적 비즈니스 관행과 투명성",
+    "customer": "고객 중심",
+    "customerText": "고객의 성공을 우리가 하는 모든 일의 중심에 두기"
+  },
+  "equipment": {
+    "title": "장비 및 시설",
+    "subtitle": "최첨단 제조 인프라",
+    "description": "우리 시설은 모든 프로젝트에서 정밀성, 효율성 및 품질을 보장하기 위해 최신 기술로 갖추어져 있습니다.",
+    "specifications": "사양",
+    "viewDetails": "자세히 보기"
+  },
+  "technology": {
+    "title": "기술 및 역량",
+    "subtitle": "고급 제조 솔루션",
+    "description": "우리는 최첨단 기술과 전문성을 활용하여 탁월한 결과를 제공합니다.",
+    "capabilities": "우리의 역량",
+    "precision": "정밀 제조",
+    "precisionText": "고급 CNC 가공 및 정밀 공학",
+    "quality": "품질 보증",
+    "qualityText": "엄격한 테스트 및 품질 관리 프로세스",
+    "custom": "맞춤 솔루션",
+    "customText": "고유한 요구 사항을 위한 맞춤형 제조 솔루션",
+    "scale": "확장 가능한 생산",
+    "scaleText": "프로토타입부터 대규모 생산까지"
+  },
+  "clients": {
+    "title": "고객 및 파트너",
+    "subtitle": "업계 리더들의 신뢰를 받고 있습니다",
+    "description": "우리는 다양한 산업 분야의 다양한 고객에게 서비스를 제공하게 된 것을 자랑스럽게 생각합니다.",
+    "partnershipText": "우리는 자동차, 항공우주, 전자제품, 의료기기 등 다양한 산업 분야의 주요 기업들과 파트너십을 맺고 있음을 자랑스럽게 생각합니다.",
+    "clientLabel": "고객사"
+  },
+  "contact": {
+    "title": "연락처",
+    "subtitle": "문의하기",
+    "description": "문의사항이 있으시면 언제든지 연락주세요. 제조 요구사항에 대해 논의하기 위해 연락해 주세요.",
+    "getInTouch": "문의하기",
+    "sendMessage": "메시지 보내기",
+    "address": "주소",
+    "phone": "전화",
+    "email": "이메일",
+    "addressValue": "서울특별시 제조업 거리 123\n대한민국 12345",
+    "phoneValue": "+82-2-XXXX-XXXX",
+    "emailValue": "info@ati2000.co.kr",
+    "successMessage": "메시지를 보내주셔서 감사합니다. 곧 연락드리겠습니다.",
+    "form": {
+      "name": "이름",
+      "email": "이메일",
+      "subject": "제목",
+      "message": "메시지",
+      "send": "메시지 보내기"
+    }
+  },
+  "admin": {
+    "login": "관리자 로그인",
+    "username": "사용자 이름",
+    "password": "비밀번호",
+    "loginButton": "로그인",
+    "logout": "로그아웃",
+    "equipment": "장비 관리",
+    "addNew": "새 장비 추가",
+    "edit": "편집",
+    "delete": "삭제",
+    "save": "저장",
+    "cancel": "취소",
+    "title": "제목",
+    "titleEn": "제목 (영어)",
+    "titleKo": "제목 (한국어)",
+    "titleZh": "제목 (중국어)",
+    "description": "설명",
+    "descriptionEn": "설명 (영어)",
+    "descriptionKo": "설명 (한국어)",
+    "descriptionZh": "설명 (중국어)",
+    "specifications": "사양",
+    "images": "이미지",
+    "uploadImage": "이미지 업로드",
+    "noEquipment": "장비를 찾을 수 없습니다. 첫 번째 장비 항목을 추가하세요."
+  },
+  "footer": {
+    "rights": "모든 권리 보유.",
+    "company": "ATI2000"
+  }
+}
